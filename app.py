@@ -24,7 +24,7 @@ calories = {
 }
 
 # Input text
-food = st.text_input("Enter a food item:")
+food = st.text_input("Enter a food item:")  
 
 # Calculate and display calories
 if food:
